@@ -27,12 +27,3 @@ git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/luci-theme
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 svn co https://github.com/firker/diy-ziyong/trunk/smartdns package/smartdns
-
-# svn co https://github.com/xiaorouji/openwrt-package/trunk/package/brook package/brook
-# svn co https://github.com/xiaorouji/openwrt-package/trunk/package/chinadns-ng package/chinadns-ng
-# svn co https://github.com/xiaorouji/openwrt-package/trunk/package/tcping package/tcping
-# svn co https://github.com/xiaorouji/openwrt-package/trunk/package/trojan-go package/trojan-go
-# svn co https://github.com/xiaorouji/openwrt-package/trunk/package/trojan-plus package/trojan-plus
-# svn co https://github.com/xiaorouji/openwrt-package/trunk/package/naiveproxy package/naiveproxy
-# svn co https://github.com/xiaorouji/openwrt-package/trunk/package/v2ray package/v2ray
-# svn co https://github.com/xiaorouji/openwrt-package/trunk/package/v2ray-plugin package/v2ray-plugin
