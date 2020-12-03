@@ -12,7 +12,7 @@ config frp 'common'
 	option enable_http_proxy '0'
 	option protocol 'tcp'
 	option enabled '1'
-	option server_addr '185.172.113.5'
+	option server_addr '113.31.119.238'
 	option token '12345678'
 
 config proxy
